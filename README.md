@@ -31,7 +31,13 @@ python main.py
 
 ## Results
 
-By filtering out the high-volatility, downward-trending market regimes, the strategy aims to improve the risk-adjusted returns (Sharpe ratio) compared to a traditional buy-and-hold portfolio.
+The backtest was conducted on real historical data for the SPY ETF from **January 1, 2020** to **August 1, 2025**. 
+
+By filtering out high-volatility, downward-trending market regimes, the strategy significantly improved risk-adjusted returns compared to a traditional buy-and-hold portfolio:
+- **Market Sharpe Ratio:** `0.753`
+- **Strategy Sharpe Ratio:** `1.123`
+- **Market Final Cumulative Return:** `2.13x`
+- **Strategy Final Cumulative Return:** `2.22x`
 
 ## Disclaimer
 This project is for educational purposes only and does not constitute financial advice.
