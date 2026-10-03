@@ -39,5 +39,4 @@ By filtering out high-volatility, downward-trending market regimes, the strategy
 - **Market Final Cumulative Return:** `2.13x`
 - **Strategy Final Cumulative Return:** `2.22x`
 
-## Disclaimer
-This project is for educational purposes only and does not constitute financial advice.
+
